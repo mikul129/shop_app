@@ -1,0 +1,5 @@
+INFO:root:03052021 18:48:43 Prices updated successfully!
+INFO:root:03052021 18:49:09 Prices updated successfully!
+INFO:root:03052021 19:46:02 Prices updated successfully!
+ERROR:root:03052021 20:04:00 Problem with get_currency_rate function.Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+ERROR:root:03052021 20:04:00 Problem with update_price function.local variable 'result' referenced before assignment
