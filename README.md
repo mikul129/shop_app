@@ -11,7 +11,7 @@ main.py - main file script<br />
 backup.sql - backup database<br />
 logfile.log - file with logs<br />
 requirements.txt - file with used libraries<br />
-
+models - file with objects<br />
 
 ## Libraries
 
